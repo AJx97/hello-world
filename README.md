@@ -1,6 +1,4 @@
 # hello-world
-Repository for PRG, Python
-This is a test.
-My second commit in a branch.
+Repository for PRG, Python.
 I'm a student at Noroff.
-#PRG_Python 
+#Test_PRG_Python 
